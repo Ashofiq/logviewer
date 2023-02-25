@@ -1,0 +1,16 @@
+{
+    "name": "ashofiq/logviewer",
+    "description": "logviewer",
+    "autoload": {
+        "psr-4": {
+            "Ashofiq\\Logviewer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ashofiq",
+            "email": "ahmadshofiq3@gmail.com"
+        }
+    ],
+    "require": {}
+}
